@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>ui</title>
+  <meta name="renderer" content="webkit">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0">	
+ 
+  <link rel="stylesheet" href="__PUBLIC__/layui/css/layui.css" media="all">
+  <link rel="stylesheet" href="__PUBLIC__/font-awesome/css/font-awesome.min.css" media="all">
+  <link rel="stylesheet" href="__PUBLIC__/layui/css/bootstrap.css">
+  <div class="layui-row layui-col-space15">
+    <div class="layui-col-md8">
+      <div class="layui-row layui-col-space15">
+        <div class="layui-col-md12">
+
+          <div class="layui-card">            
+            
+            <div class="layui-card-body">
+
+					<div class="col">
+						<div class="card overflow-hidden radius-10">
+							<div class="card-body p-2">
+								<div class="d-flex align-items-stretch justify-content-between radius-10 overflow-hidden">
+									<div class="w-50 p-3 bg-light-primary">
+										<p>设备</p>
+										<h4 class="text-primary">{$web.mobileuser}个</h4>
+									</div>
+									<div class="w-50 bg-primary p-3">
+										<p class="mb-3 text-white">操作系统：{$info.win} </i>
+										</p>
+										<div id="chart1"></div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col">
+						<div class="card overflow-hidden radius-10">
+							<div class="card-body p-2">
+								<div class="d-flex align-items-stretch justify-content-between radius-10 overflow-hidden">
+									<div class="w-50 p-3 bg-light-primary">
+										<p>通讯录</p>
+										<h4 class="text-primary">{$web.mobile}个</h4>
+									</div>
+									<div class="w-50 bg-primary p-3">
+										<p class="mb-3 text-white">PHP版本：{$info.php}</i>
+										</p>
+										<div id="chart2"></div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col">
+						<div class="card overflow-hidden radius-10">
+							<div class="card-body p-2">
+								<div class="d-flex align-items-stretch justify-content-between radius-10 overflow-hidden">
+									<div class="w-50 p-3 bg-light-primary">
+										<p>管理员</p>
+										<h4 class="text-primary">{$web.user_num}个</h4>
+									</div>
+									<div class="w-50 bg-primary p-3">
+										<p class="mb-3 text-white">运行环境：{$info.environment}</i>
+										</p>
+										<div id="chart3"></div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col">
+						<div class="card overflow-hidden radius-10">
+							<div class="card-body p-2">
+								<div class="d-flex align-items-stretch justify-content-between radius-10 overflow-hidden">
+									<div class="w-50 p-3 bg-light-primary">
+										<p>短信</p>
+										<h4 class="text-primary">{$web.smsnum}条</h4>
+									</div>
+									<div class="w-50 bg-primary p-3">
+										<p class="mb-3 text-white">剩余空间大小：{notempty name="$info.disk"}{$info.disk}{else/}未知{/notempty}</i>
+										</p>
+										<div id="chart4"></div>
+									</div>
+								</div>
+							</div>
+						</div>
+					

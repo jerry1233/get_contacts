@@ -1,0 +1,1634 @@
+---------------------------------------------------------------
+[ 2023-02-21T13:29:23+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/login.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002850s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.003080s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.001457s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:29:23+08:00 ] 14.157.49.69 GET 115.126.113.216:98/captcha.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001983s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002040s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000898s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:29:23+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/1.jpg
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001984s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002054s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000973s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:29:38+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/login.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001625s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001633s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000724s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:29:38+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/s.png
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001737s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001653s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000695s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:29:38+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/1.jpg
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001571s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001599s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000882s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:29:39+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/login.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001357s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001768s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000702s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:29:39+08:00 ] 14.157.49.69 GET 115.126.113.216:98/captcha.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001468s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002225s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000802s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:29:39+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/login.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001376s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001643s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000661s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:30:43+08:00 ] 42.236.10.84 GET 115.126.113.216:98/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002560s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002293s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.001022s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:30:48+08:00 ] 27.115.124.109 GET 115.126.113.216:98/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001479s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002132s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000916s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:31:21+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/login.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002318s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002730s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.001066s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:32:15+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/login.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003018s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002437s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.001086s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:33:05+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/login.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001840s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001754s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000700s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:33:05+08:00 ] 14.157.49.69 GET 115.126.113.216:98/captcha.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002118s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002639s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000929s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:33:05+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/s.png
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001666s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002035s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000713s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:33:05+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/login.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002186s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001862s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000719s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:33:05+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/1.jpg
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002414s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002002s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000909s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:33:13+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/login.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002017s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002162s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000968s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:33:56+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/login.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001676s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001720s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000843s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:33:56+08:00 ] 14.157.49.69 GET 115.126.113.216:98/captcha.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001729s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002163s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000845s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:33:56+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/s.png
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001505s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001642s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000715s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:33:56+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/1.jpg
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001460s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001859s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000658s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:34:35+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/login.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001779s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001765s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.001036s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:36:20+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/login.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001697s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001805s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000777s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:36:20+08:00 ] 14.157.49.69 GET 115.126.113.216:98/captcha.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001953s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001917s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.001119s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:36:20+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/s.png
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001438s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001877s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000754s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:36:20+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/login.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001705s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001855s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000899s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:36:20+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/1.jpg
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001916s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002108s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000895s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:36:21+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/login.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001378s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001652s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000811s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:36:21+08:00 ] 14.157.49.69 GET 115.126.113.216:98/captcha.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001724s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001639s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000975s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:36:21+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/1.jpg
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001843s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001601s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000898s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:36:21+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/login.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001195s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001566s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000665s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:36:21+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/s.png
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001701s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002277s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000668s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:36:22+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/login.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001398s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001673s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000851s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:36:22+08:00 ] 14.157.49.69 GET 115.126.113.216:98/captcha.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001454s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001698s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000600s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:36:22+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/1.jpg
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002638s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001890s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.001713s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:36:22+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/s.png
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001930s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001606s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000777s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:36:22+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/login.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001464s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002170s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000741s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:36:45+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/login.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002467s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.003122s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.001041s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:36:46+08:00 ] 14.157.49.69 GET 115.126.113.216:98/captcha.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001880s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001912s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000728s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:36:46+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/1.jpg
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001229s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002086s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000690s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:36:46+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/login.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001506s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002129s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000772s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:36:46+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/s.png
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001716s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001674s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000701s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:36:46+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/login.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001597s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001915s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000938s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:36:46+08:00 ] 14.157.49.69 GET 115.126.113.216:98/captcha.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001715s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001912s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000746s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:36:47+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/1.jpg
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001798s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001778s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000754s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:36:47+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/s.png
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001322s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001949s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000672s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:36:47+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/login.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001089s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001815s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000693s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:36:47+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/login.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001698s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001793s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000748s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:36:47+08:00 ] 14.157.49.69 GET 115.126.113.216:98/captcha.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001902s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002146s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000891s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:36:47+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/1.jpg
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001482s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001793s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.001341s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:36:47+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/s.png
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001811s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002355s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000738s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:36:47+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/login.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001362s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001730s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000869s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:37:06+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/login.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001695s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001754s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000790s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:37:07+08:00 ] 14.157.49.69 GET 115.126.113.216:98/captcha.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001674s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001805s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000740s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:37:07+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/login.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001476s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001839s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000919s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:37:07+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/s.png
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001638s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001454s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000636s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:37:44+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/login.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001965s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002035s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000963s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:38:51+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/login.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001987s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002170s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000828s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:38:51+08:00 ] 14.157.49.69 GET 115.126.113.216:98/captcha.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001557s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001669s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000801s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:38:52+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/s.png
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002386s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002143s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000731s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:38:52+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/login.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001302s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001921s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000718s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:38:53+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/login.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001573s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001646s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000831s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:38:53+08:00 ] 14.157.49.69 GET 115.126.113.216:98/captcha.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001831s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001969s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000818s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:38:54+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/login.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001754s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002349s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000945s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:38:54+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/s.png
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001279s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001498s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000853s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:39:24+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/login.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001888s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001803s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000822s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:39:24+08:00 ] 14.157.49.69 GET 115.126.113.216:98/captcha.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001695s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001640s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000708s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:39:24+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/common/login.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001677s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001745s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000818s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:41:08+08:00 ] 14.157.49.69 POST 115.126.113.216:98/admin/common/login.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001885s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002158s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.001009s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin` [ RunTime:0.001945s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin` WHERE  `name` = 'admin' LIMIT 1 [ RunTime:0.000977s ]
+[ sql ] [ SQL ] UPDATE `app_admin`  SET `login_ip`='14.157.49.69',`login_time`=1676958068  WHERE  `id` = 1 [ RunTime:0.006276s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.001878s ]
+[ sql ] [ SQL ] SELECT * FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000888s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001363s ]
+[ sql ] [ SQL ] SELECT `id` FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Common'  AND `function` = 'login'  AND `parameter` = 'common=' LIMIT 1 [ RunTime:0.000832s ]
+[ sql ] [ SQL ] SELECT `id` FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Common'  AND `function` = 'login' LIMIT 1 [ RunTime:0.000709s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_log` [ RunTime:0.001328s ]
+[ sql ] [ SQL ] INSERT INTO `app_admin_log` (`operation_id` , `admin_id` , `ip` , `create_time` , `admin_menu_id`) VALUES ('' , 1 , '14.157.49.69' , 1676958068 , 50) [ RunTime:0.007400s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:41:10+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/index/index.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001349s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001533s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000741s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.002643s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000858s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.002298s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000750s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001976s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Index'  AND `function` = 'index'  AND `type` = 1 LIMIT 1 [ RunTime:0.001173s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `is_display` = 1 ORDER BY `orders` ASC [ RunTime:0.001126s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000669s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin` [ RunTime:0.001933s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.001044s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:41:12+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/main/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001760s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001778s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000805s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.002572s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000979s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.002126s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000842s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001697s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Main'  AND `function` = 'index'  AND `type` = 1  AND `parameter` = 'main=' LIMIT 1 [ RunTime:0.001200s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Main'  AND `function` = 'index'  AND `type` = 1 LIMIT 1 [ RunTime:0.001031s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin` [ RunTime:0.002104s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin` LIMIT 1 [ RunTime:0.000777s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_cate` LIMIT 1 [ RunTime:0.000672s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` LIMIT 1 [ RunTime:0.000640s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_article` [ RunTime:0.002022s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_article` WHERE  `status` = 0 LIMIT 1 [ RunTime:0.000893s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_article` WHERE  `is_top` = 1 LIMIT 1 [ RunTime:0.000808s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_attachment` [ RunTime:0.002111s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` LIMIT 1 [ RunTime:0.000775s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` WHERE  `status` = 0 LIMIT 1 [ RunTime:0.000854s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` WHERE  `status` = -1 LIMIT 1 [ RunTime:0.000760s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_messages` [ RunTime:0.002022s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_messages` LIMIT 1 [ RunTime:0.000718s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_messages` WHERE  `is_look` = 0 LIMIT 1 [ RunTime:0.000749s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_user` [ RunTime:0.001801s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_user` LIMIT 1 [ RunTime:0.000614s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_mobile` [ RunTime:0.001859s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_mobile` LIMIT 1 [ RunTime:0.016222s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_content` [ RunTime:0.002159s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_content` LIMIT 1 [ RunTime:0.022421s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_log` [ RunTime:0.001695s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676131200 AND `create_time` <= 1676217600 ) LIMIT 1 [ RunTime:0.001060s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676217600 AND `create_time` <= 1676304000 ) LIMIT 1 [ RunTime:0.000780s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676304000 AND `create_time` <= 1676390400 ) LIMIT 1 [ RunTime:0.000667s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676390400 AND `create_time` <= 1676476800 ) LIMIT 1 [ RunTime:0.000727s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676476800 AND `create_time` <= 1676563200 ) LIMIT 1 [ RunTime:0.000655s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676563200 AND `create_time` <= 1676649600 ) LIMIT 1 [ RunTime:0.000673s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676649600 AND `create_time` <= 1676736000 ) LIMIT 1 [ RunTime:0.000821s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676736000 AND `create_time` <= 1676822400 ) LIMIT 1 [ RunTime:0.000588s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676822400 AND `create_time` <= 1676908800 ) LIMIT 1 [ RunTime:0.000509s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676908800 AND `create_time` <= 1676995200 ) LIMIT 1 [ RunTime:0.000773s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:41:19+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/appv1/user.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002562s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002577s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.001133s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.002100s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000877s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.002002s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000793s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001519s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'user'  AND `type` = 1  AND `parameter` = 'appv1=' LIMIT 1 [ RunTime:0.001231s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'user'  AND `type` = 1 LIMIT 1 [ RunTime:0.001098s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_user` [ RunTime:0.002283s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_user` LIMIT 1 [ RunTime:0.000841s ]
+[ sql ] [ SQL ] SELECT * FROM `app_user` ORDER BY `id` DESC LIMIT 0,20 [ RunTime:0.000739s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:41:34+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/appv1/sms.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001626s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002424s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000999s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.001956s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000736s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.001435s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000773s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001487s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'sms'  AND `type` = 1  AND `parameter` = 'appv1=' LIMIT 1 [ RunTime:0.000859s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'sms'  AND `type` = 1 LIMIT 1 [ RunTime:0.000792s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_content` [ RunTime:0.001578s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_content` `a` INNER JOIN `app_user` `b` ON `b`.`id`=`a`.`userid` LIMIT 1 [ RunTime:0.024621s ]
+[ sql ] [ SQL ] SELECT `a`.*,`b`.`name`,`b`.`code`,`b`.`clientid` FROM `app_content` `a` INNER JOIN `app_user` `b` ON `b`.`id`=`a`.`userid` ORDER BY `a`.`id` DESC LIMIT 0,20 [ RunTime:0.001169s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:41:35+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/appv1/mobile.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001633s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001573s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000707s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.001905s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000796s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.002156s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000826s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001909s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'mobile'  AND `type` = 1  AND `parameter` = 'appv1=' LIMIT 1 [ RunTime:0.001300s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'mobile'  AND `type` = 1 LIMIT 1 [ RunTime:0.000878s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_mobile` [ RunTime:0.002275s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_mobile` `a` INNER JOIN `app_user` `b` ON `b`.`id`=`a`.`userid` LIMIT 1 [ RunTime:0.035233s ]
+[ sql ] [ SQL ] SELECT `a`.*,`b`.`name`,`b`.`code`,`b`.`clientid` FROM `app_mobile` `a` INNER JOIN `app_user` `b` ON `b`.`id`=`a`.`userid` ORDER BY `a`.`id` DESC LIMIT 0,20 [ RunTime:0.001100s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:41:41+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/appv1/user.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001967s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001955s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000698s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.002093s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000712s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.001404s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000547s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001278s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'user'  AND `type` = 1  AND `parameter` = 'appv1=' LIMIT 1 [ RunTime:0.000801s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'user'  AND `type` = 1 LIMIT 1 [ RunTime:0.000647s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_user` [ RunTime:0.001443s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_user` LIMIT 1 [ RunTime:0.000594s ]
+[ sql ] [ SQL ] SELECT * FROM `app_user` ORDER BY `id` DESC LIMIT 0,20 [ RunTime:0.000613s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:41:46+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/admin/personal.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002171s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001954s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000946s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.001727s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000832s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.001646s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000622s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001610s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Admin'  AND `function` = 'personal'  AND `type` = 1 LIMIT 1 [ RunTime:0.000849s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin` [ RunTime:0.001895s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000685s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_attachment` [ RunTime:0.001993s ]
+[ sql ] [ SQL ] SELECT * FROM `app_attachment` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.000728s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:41:46+08:00 ] 14.157.49.69 GET 115.126.113.216:98/uploads/admin/admin_thumb/20210709/562f9f7549cb79b32b46f7aa9d11fbdf.png
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001613s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001986s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000762s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:42:13+08:00 ] 14.157.49.69 POST 115.126.113.216:98/admin/common/upload.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001556s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001690s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000771s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.002482s ]
+[ sql ] [ SQL ] SELECT * FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000997s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_attachment` [ RunTime:0.001765s ]
+[ sql ] [ SQL ] INSERT INTO `app_attachment` (`module` , `filename` , `filepath` , `fileext` , `filesize` , `create_time` , `uploadip` , `user_id` , `status` , `admin_id` , `audit_time` , `use`) VALUES ('admin' , 'a130de416e869809ee04b1b879725036.jpg' , '/uploads/admin/admin_thumb/20230221/a130de416e869809ee04b1b879725036.jpg' , 'jpg' , 22657 , 1676958133 , '14.157.49.69' , 1 , 1 , 1 , 1676958133 , 'admin_thumb') [ RunTime:0.006799s ]
+[ sql ] [ SQL ] SELECT * FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.001040s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001651s ]
+[ sql ] [ SQL ] SELECT `id` FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Common'  AND `function` = 'upload'  AND `parameter` = 'common=' LIMIT 1 [ RunTime:0.000807s ]
+[ sql ] [ SQL ] SELECT `id` FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Common'  AND `function` = 'upload' LIMIT 1 [ RunTime:0.000638s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_log` [ RunTime:0.001433s ]
+[ sql ] [ SQL ] INSERT INTO `app_admin_log` (`operation_id` , `admin_id` , `ip` , `create_time` , `admin_menu_id`) VALUES ('14' , 1 , '14.157.49.69' , 1676958133 , 49) [ RunTime:0.006340s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:42:16+08:00 ] 14.157.49.69 POST 115.126.113.216:98/admin/admin/personal.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001684s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002066s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000800s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.001993s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000760s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.001602s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000663s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001383s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Admin'  AND `function` = 'personal'  AND `type` = 1  AND `parameter` = 'nickname=超级管理员&thumb=14&id=1' LIMIT 1 [ RunTime:0.001011s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Admin'  AND `function` = 'personal'  AND `type` = 1 LIMIT 1 [ RunTime:0.000699s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin` [ RunTime:0.001741s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin` WHERE  `nickname` = '超级管理员'  AND `id` <> 1 [ RunTime:0.001092s ]
+[ sql ] [ SQL ] UPDATE `app_admin`  SET `nickname`='超级管理员',`thumb`=14,`update_time`=1676958135  WHERE  `id` = 1 [ RunTime:0.006087s ]
+[ sql ] [ SQL ] SELECT * FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000993s ]
+[ sql ] [ SQL ] SELECT `id` FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Admin'  AND `function` = 'personal'  AND `parameter` = 'nickname=超级管理员&thumb=14&id=1' LIMIT 1 [ RunTime:0.000867s ]
+[ sql ] [ SQL ] SELECT `id` FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Admin'  AND `function` = 'personal' LIMIT 1 [ RunTime:0.000697s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_log` [ RunTime:0.001867s ]
+[ sql ] [ SQL ] INSERT INTO `app_admin_log` (`operation_id` , `admin_id` , `ip` , `create_time` , `admin_menu_id`) VALUES ('1' , 1 , '14.157.49.69' , 1676958135 , 7) [ RunTime:0.005447s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:42:17+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/admin/personal.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001795s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001861s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000941s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.001690s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000773s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.001375s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000631s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001592s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Admin'  AND `function` = 'personal'  AND `type` = 1 LIMIT 1 [ RunTime:0.001018s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin` [ RunTime:0.001951s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000892s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_attachment` [ RunTime:0.001414s ]
+[ sql ] [ SQL ] SELECT * FROM `app_attachment` WHERE  `id` = 14 LIMIT 1 [ RunTime:0.000727s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:42:18+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/admin/editpassword.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001904s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001977s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000880s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.002504s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000936s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.002020s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000731s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001726s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Admin'  AND `function` = 'editpassword'  AND `type` = 1 LIMIT 1 [ RunTime:0.001105s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:42:21+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/webconfig/index.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001887s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001604s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000788s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:42:22+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/emailconfig/index.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001661s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002315s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000720s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:42:23+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/smsconfig/index.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001327s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001507s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000652s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:42:24+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/urlsconfig/index.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001567s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001848s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000722s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:42:27+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/webconfig/index.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001899s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001518s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000703s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:42:28+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/webconfig/index.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001463s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001778s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000792s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:42:28+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/emailconfig/index.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001976s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001735s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000792s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:42:29+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/smsconfig/index.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001974s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002079s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000755s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:42:30+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/urlsconfig/index.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001704s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001930s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.001042s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:42:33+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/appv1/appset.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002157s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002156s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000905s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.002289s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000837s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.001658s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000852s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001839s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'appset'  AND `type` = 1  AND `parameter` = 'appv1=' LIMIT 1 [ RunTime:0.001293s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'appset'  AND `type` = 1 LIMIT 1 [ RunTime:0.000995s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_appconfig` [ RunTime:0.001986s ]
+[ sql ] [ SQL ] SELECT * FROM `app_appconfig` WHERE  `admin_id` = 1 LIMIT 1 [ RunTime:0.001177s ]
+[ sql ] [ SQL ] SELECT * FROM `app_appconfig` WHERE  `app` = 'appv1' LIMIT 1 [ RunTime:0.000817s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:42:49+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/appv1/user.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001716s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001724s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000788s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.002163s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000690s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.001815s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000623s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001342s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'user'  AND `type` = 1  AND `parameter` = 'appv1=' LIMIT 1 [ RunTime:0.000780s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'user'  AND `type` = 1 LIMIT 1 [ RunTime:0.000651s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_user` [ RunTime:0.001270s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_user` LIMIT 1 [ RunTime:0.000575s ]
+[ sql ] [ SQL ] SELECT * FROM `app_user` ORDER BY `id` DESC LIMIT 0,20 [ RunTime:0.000553s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:42:50+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/appv1/sms.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001953s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002722s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000956s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.002309s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000836s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.002077s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.001011s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001913s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'sms'  AND `type` = 1  AND `parameter` = 'appv1=' LIMIT 1 [ RunTime:0.001405s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'sms'  AND `type` = 1 LIMIT 1 [ RunTime:0.001415s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_content` [ RunTime:0.001986s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_content` `a` INNER JOIN `app_user` `b` ON `b`.`id`=`a`.`userid` LIMIT 1 [ RunTime:0.028404s ]
+[ sql ] [ SQL ] SELECT `a`.*,`b`.`name`,`b`.`code`,`b`.`clientid` FROM `app_content` `a` INNER JOIN `app_user` `b` ON `b`.`id`=`a`.`userid` ORDER BY `a`.`id` DESC LIMIT 0,20 [ RunTime:0.001062s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:47:25+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/index/index.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002842s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.003927s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.001485s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.002833s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.001168s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.002295s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000761s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001572s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Index'  AND `function` = 'index'  AND `type` = 1 LIMIT 1 [ RunTime:0.001051s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `is_display` = 1 ORDER BY `orders` ASC [ RunTime:0.001290s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000737s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin` [ RunTime:0.001890s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000782s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:47:26+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/main/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001856s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001842s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000901s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.002579s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000890s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.001848s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000716s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001451s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Main'  AND `function` = 'index'  AND `type` = 1  AND `parameter` = 'main=' LIMIT 1 [ RunTime:0.000999s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Main'  AND `function` = 'index'  AND `type` = 1 LIMIT 1 [ RunTime:0.000976s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin` [ RunTime:0.002304s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin` LIMIT 1 [ RunTime:0.000897s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_cate` LIMIT 1 [ RunTime:0.000456s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` LIMIT 1 [ RunTime:0.000621s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_article` [ RunTime:0.001597s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_article` WHERE  `status` = 0 LIMIT 1 [ RunTime:0.000620s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_article` WHERE  `is_top` = 1 LIMIT 1 [ RunTime:0.000551s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_attachment` [ RunTime:0.001474s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` LIMIT 1 [ RunTime:0.000578s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` WHERE  `status` = 0 LIMIT 1 [ RunTime:0.000699s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` WHERE  `status` = -1 LIMIT 1 [ RunTime:0.000677s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_messages` [ RunTime:0.001887s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_messages` LIMIT 1 [ RunTime:0.000883s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_messages` WHERE  `is_look` = 0 LIMIT 1 [ RunTime:0.000813s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_user` [ RunTime:0.001661s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_user` LIMIT 1 [ RunTime:0.000766s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_mobile` [ RunTime:0.001446s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_mobile` LIMIT 1 [ RunTime:0.013974s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_content` [ RunTime:0.002256s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_content` LIMIT 1 [ RunTime:0.017297s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_log` [ RunTime:0.001668s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676131200 AND `create_time` <= 1676217600 ) LIMIT 1 [ RunTime:0.000966s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676217600 AND `create_time` <= 1676304000 ) LIMIT 1 [ RunTime:0.000593s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676304000 AND `create_time` <= 1676390400 ) LIMIT 1 [ RunTime:0.000574s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676390400 AND `create_time` <= 1676476800 ) LIMIT 1 [ RunTime:0.000779s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676476800 AND `create_time` <= 1676563200 ) LIMIT 1 [ RunTime:0.000632s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676563200 AND `create_time` <= 1676649600 ) LIMIT 1 [ RunTime:0.001140s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676649600 AND `create_time` <= 1676736000 ) LIMIT 1 [ RunTime:0.000609s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676736000 AND `create_time` <= 1676822400 ) LIMIT 1 [ RunTime:0.001253s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676822400 AND `create_time` <= 1676908800 ) LIMIT 1 [ RunTime:0.000768s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676908800 AND `create_time` <= 1676995200 ) LIMIT 1 [ RunTime:0.000784s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:47:42+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/index/index.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002401s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002038s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000896s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.002165s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000814s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.001877s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000722s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001675s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Index'  AND `function` = 'index'  AND `type` = 1 LIMIT 1 [ RunTime:0.001014s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `is_display` = 1 ORDER BY `orders` ASC [ RunTime:0.001134s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000779s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin` [ RunTime:0.001968s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000787s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:49:40+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/appv1/user.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002877s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002094s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000919s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.002020s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000738s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.002010s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000751s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001822s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'user'  AND `type` = 1  AND `parameter` = 'appv1=' LIMIT 1 [ RunTime:0.001172s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'user'  AND `type` = 1 LIMIT 1 [ RunTime:0.001020s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_user` [ RunTime:0.001764s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_user` LIMIT 1 [ RunTime:0.000765s ]
+[ sql ] [ SQL ] SELECT * FROM `app_user` ORDER BY `id` DESC LIMIT 0,20 [ RunTime:0.000654s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:50:43+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/index/index.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002237s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002748s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.001303s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.002275s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000914s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.001962s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000783s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001579s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Index'  AND `function` = 'index'  AND `type` = 1 LIMIT 1 [ RunTime:0.001130s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `is_display` = 1 ORDER BY `orders` ASC [ RunTime:0.000987s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000505s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin` [ RunTime:0.001797s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000628s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:50:43+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/main/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001385s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001700s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000729s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.001945s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000701s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.001655s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000730s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001605s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Main'  AND `function` = 'index'  AND `type` = 1  AND `parameter` = 'main=' LIMIT 1 [ RunTime:0.000787s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Main'  AND `function` = 'index'  AND `type` = 1 LIMIT 1 [ RunTime:0.000987s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin` [ RunTime:0.001934s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin` LIMIT 1 [ RunTime:0.000785s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_cate` LIMIT 1 [ RunTime:0.000659s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` LIMIT 1 [ RunTime:0.000723s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_article` [ RunTime:0.002212s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_article` WHERE  `status` = 0 LIMIT 1 [ RunTime:0.000750s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_article` WHERE  `is_top` = 1 LIMIT 1 [ RunTime:0.000624s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_attachment` [ RunTime:0.001595s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` LIMIT 1 [ RunTime:0.000549s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` WHERE  `status` = 0 LIMIT 1 [ RunTime:0.000702s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` WHERE  `status` = -1 LIMIT 1 [ RunTime:0.000649s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_messages` [ RunTime:0.001379s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_messages` LIMIT 1 [ RunTime:0.000625s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_messages` WHERE  `is_look` = 0 LIMIT 1 [ RunTime:0.000564s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_user` [ RunTime:0.001397s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_user` LIMIT 1 [ RunTime:0.001193s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_mobile` [ RunTime:0.001426s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_mobile` LIMIT 1 [ RunTime:0.012238s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_content` [ RunTime:0.001888s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_content` LIMIT 1 [ RunTime:0.017264s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_log` [ RunTime:0.001807s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676131200 AND `create_time` <= 1676217600 ) LIMIT 1 [ RunTime:0.000716s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676217600 AND `create_time` <= 1676304000 ) LIMIT 1 [ RunTime:0.000666s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676304000 AND `create_time` <= 1676390400 ) LIMIT 1 [ RunTime:0.000729s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676390400 AND `create_time` <= 1676476800 ) LIMIT 1 [ RunTime:0.000678s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676476800 AND `create_time` <= 1676563200 ) LIMIT 1 [ RunTime:0.000602s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676563200 AND `create_time` <= 1676649600 ) LIMIT 1 [ RunTime:0.000637s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676649600 AND `create_time` <= 1676736000 ) LIMIT 1 [ RunTime:0.000604s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676736000 AND `create_time` <= 1676822400 ) LIMIT 1 [ RunTime:0.000631s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676822400 AND `create_time` <= 1676908800 ) LIMIT 1 [ RunTime:0.000606s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676908800 AND `create_time` <= 1676995200 ) LIMIT 1 [ RunTime:0.000636s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:50:45+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/appv1/user.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001764s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001662s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000822s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.001855s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000771s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.001712s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000735s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001767s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'user'  AND `type` = 1  AND `parameter` = 'appv1=' LIMIT 1 [ RunTime:0.000903s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'user'  AND `type` = 1 LIMIT 1 [ RunTime:0.000973s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_user` [ RunTime:0.001500s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_user` LIMIT 1 [ RunTime:0.000534s ]
+[ sql ] [ SQL ] SELECT * FROM `app_user` ORDER BY `id` DESC LIMIT 0,20 [ RunTime:0.000681s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:53:09+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/index/index.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002290s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002462s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.001220s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.002195s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000863s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.001585s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000737s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001649s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Index'  AND `function` = 'index'  AND `type` = 1 LIMIT 1 [ RunTime:0.000905s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `is_display` = 1 ORDER BY `orders` ASC [ RunTime:0.000962s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000645s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin` [ RunTime:0.001734s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000658s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:53:10+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/main/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002293s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001671s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000769s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.002178s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000909s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.001917s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000737s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.002066s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Main'  AND `function` = 'index'  AND `type` = 1  AND `parameter` = 'main=' LIMIT 1 [ RunTime:0.001097s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Main'  AND `function` = 'index'  AND `type` = 1 LIMIT 1 [ RunTime:0.000680s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin` [ RunTime:0.001413s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin` LIMIT 1 [ RunTime:0.000562s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_cate` LIMIT 1 [ RunTime:0.000451s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` LIMIT 1 [ RunTime:0.000531s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_article` [ RunTime:0.001480s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_article` WHERE  `status` = 0 LIMIT 1 [ RunTime:0.000635s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_article` WHERE  `is_top` = 1 LIMIT 1 [ RunTime:0.000541s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_attachment` [ RunTime:0.001746s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` LIMIT 1 [ RunTime:0.000672s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` WHERE  `status` = 0 LIMIT 1 [ RunTime:0.000745s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` WHERE  `status` = -1 LIMIT 1 [ RunTime:0.000606s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_messages` [ RunTime:0.001944s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_messages` LIMIT 1 [ RunTime:0.000591s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_messages` WHERE  `is_look` = 0 LIMIT 1 [ RunTime:0.000641s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_user` [ RunTime:0.001341s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_user` LIMIT 1 [ RunTime:0.000610s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_mobile` [ RunTime:0.001476s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_mobile` LIMIT 1 [ RunTime:0.016644s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_content` [ RunTime:0.001854s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_content` LIMIT 1 [ RunTime:0.017537s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_log` [ RunTime:0.001714s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676131200 AND `create_time` <= 1676217600 ) LIMIT 1 [ RunTime:0.000688s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676217600 AND `create_time` <= 1676304000 ) LIMIT 1 [ RunTime:0.000526s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676304000 AND `create_time` <= 1676390400 ) LIMIT 1 [ RunTime:0.000521s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676390400 AND `create_time` <= 1676476800 ) LIMIT 1 [ RunTime:0.000523s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676476800 AND `create_time` <= 1676563200 ) LIMIT 1 [ RunTime:0.000582s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676563200 AND `create_time` <= 1676649600 ) LIMIT 1 [ RunTime:0.000668s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676649600 AND `create_time` <= 1676736000 ) LIMIT 1 [ RunTime:0.000732s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676736000 AND `create_time` <= 1676822400 ) LIMIT 1 [ RunTime:0.000603s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676822400 AND `create_time` <= 1676908800 ) LIMIT 1 [ RunTime:0.000608s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676908800 AND `create_time` <= 1676995200 ) LIMIT 1 [ RunTime:0.000785s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:53:24+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/index/index.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001939s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002240s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000916s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.002282s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000757s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.002001s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000736s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001527s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Index'  AND `function` = 'index'  AND `type` = 1 LIMIT 1 [ RunTime:0.000944s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `is_display` = 1 ORDER BY `orders` ASC [ RunTime:0.000929s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000570s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin` [ RunTime:0.001983s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000774s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:53:25+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/main/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001439s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002073s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000703s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.001852s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000844s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.001971s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000632s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001378s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Main'  AND `function` = 'index'  AND `type` = 1  AND `parameter` = 'main=' LIMIT 1 [ RunTime:0.000846s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Main'  AND `function` = 'index'  AND `type` = 1 LIMIT 1 [ RunTime:0.000696s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin` [ RunTime:0.001449s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin` LIMIT 1 [ RunTime:0.000599s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_cate` LIMIT 1 [ RunTime:0.000474s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` LIMIT 1 [ RunTime:0.000594s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_article` [ RunTime:0.001933s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_article` WHERE  `status` = 0 LIMIT 1 [ RunTime:0.000649s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_article` WHERE  `is_top` = 1 LIMIT 1 [ RunTime:0.000575s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_attachment` [ RunTime:0.001375s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` LIMIT 1 [ RunTime:0.000522s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` WHERE  `status` = 0 LIMIT 1 [ RunTime:0.000531s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` WHERE  `status` = -1 LIMIT 1 [ RunTime:0.000463s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_messages` [ RunTime:0.001360s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_messages` LIMIT 1 [ RunTime:0.000435s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_messages` WHERE  `is_look` = 0 LIMIT 1 [ RunTime:0.000472s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_user` [ RunTime:0.001365s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_user` LIMIT 1 [ RunTime:0.000538s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_mobile` [ RunTime:0.001641s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_mobile` LIMIT 1 [ RunTime:0.011707s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_content` [ RunTime:0.002057s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_content` LIMIT 1 [ RunTime:0.023271s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_log` [ RunTime:0.002020s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676131200 AND `create_time` <= 1676217600 ) LIMIT 1 [ RunTime:0.000718s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676217600 AND `create_time` <= 1676304000 ) LIMIT 1 [ RunTime:0.000605s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676304000 AND `create_time` <= 1676390400 ) LIMIT 1 [ RunTime:0.000711s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676390400 AND `create_time` <= 1676476800 ) LIMIT 1 [ RunTime:0.000576s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676476800 AND `create_time` <= 1676563200 ) LIMIT 1 [ RunTime:0.000752s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676563200 AND `create_time` <= 1676649600 ) LIMIT 1 [ RunTime:0.000632s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676649600 AND `create_time` <= 1676736000 ) LIMIT 1 [ RunTime:0.000743s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676736000 AND `create_time` <= 1676822400 ) LIMIT 1 [ RunTime:0.000586s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676822400 AND `create_time` <= 1676908800 ) LIMIT 1 [ RunTime:0.000522s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676908800 AND `create_time` <= 1676995200 ) LIMIT 1 [ RunTime:0.000668s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:53:30+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/appv1/user.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001681s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002395s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000770s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.002006s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000691s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.001653s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000578s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001715s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'user'  AND `type` = 1  AND `parameter` = 'appv1=' LIMIT 1 [ RunTime:0.001012s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'user'  AND `type` = 1 LIMIT 1 [ RunTime:0.000780s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_user` [ RunTime:0.001742s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_user` LIMIT 1 [ RunTime:0.000562s ]
+[ sql ] [ SQL ] SELECT * FROM `app_user` ORDER BY `id` DESC LIMIT 0,20 [ RunTime:0.000636s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:53:50+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/appv1/mobile.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001972s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002041s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000956s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.002125s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000795s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.002062s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000751s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.002036s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'mobile'  AND `type` = 1  AND `parameter` = 'appv1=' LIMIT 1 [ RunTime:0.001337s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'mobile'  AND `type` = 1 LIMIT 1 [ RunTime:0.001219s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_mobile` [ RunTime:0.002778s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_mobile` `a` INNER JOIN `app_user` `b` ON `b`.`id`=`a`.`userid` LIMIT 1 [ RunTime:0.032613s ]
+[ sql ] [ SQL ] SELECT `a`.*,`b`.`name`,`b`.`code`,`b`.`clientid` FROM `app_mobile` `a` INNER JOIN `app_user` `b` ON `b`.`id`=`a`.`userid` ORDER BY `a`.`id` DESC LIMIT 0,20 [ RunTime:0.001336s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:53:58+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/appv1/mobdelete.shtml?id=988362
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001545s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002296s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000788s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.001672s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000752s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.001495s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000629s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001502s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'mobdelete'  AND `type` = 1  AND `parameter` = 'appv1=' LIMIT 1 [ RunTime:0.000970s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'mobdelete'  AND `type` = 1 LIMIT 1 [ RunTime:0.000708s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_mobile` [ RunTime:0.001370s ]
+[ sql ] [ SQL ] DELETE FROM `app_mobile`    WHERE  `id` = 988362 [ RunTime:0.006439s ]
+[ sql ] [ SQL ] SELECT * FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000768s ]
+[ sql ] [ SQL ] SELECT `id` FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'mobdelete'  AND `parameter` = 'appv1=' LIMIT 1 [ RunTime:0.000675s ]
+[ sql ] [ SQL ] SELECT `id` FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'mobdelete' LIMIT 1 [ RunTime:0.000639s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_log` [ RunTime:0.001673s ]
+[ sql ] [ SQL ] INSERT INTO `app_admin_log` (`operation_id` , `admin_id` , `ip` , `create_time` , `admin_menu_id`) VALUES ('988362' , 1 , '14.157.49.69' , 1676958838 , 56) [ RunTime:0.005902s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:54:00+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/appv1/mobile.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001978s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002331s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000938s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.002264s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000811s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.001784s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000861s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.002104s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'mobile'  AND `type` = 1  AND `parameter` = 'appv1=' LIMIT 1 [ RunTime:0.001131s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'mobile'  AND `type` = 1 LIMIT 1 [ RunTime:0.000947s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_mobile` [ RunTime:0.001895s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_mobile` `a` INNER JOIN `app_user` `b` ON `b`.`id`=`a`.`userid` LIMIT 1 [ RunTime:0.025553s ]
+[ sql ] [ SQL ] SELECT `a`.*,`b`.`name`,`b`.`code`,`b`.`clientid` FROM `app_mobile` `a` INNER JOIN `app_user` `b` ON `b`.`id`=`a`.`userid` ORDER BY `a`.`id` DESC LIMIT 0,20 [ RunTime:0.001079s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:54:57+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/index/index.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001754s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002057s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000958s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.001869s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000767s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.001814s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000692s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001447s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Index'  AND `function` = 'index'  AND `type` = 1 LIMIT 1 [ RunTime:0.000963s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `is_display` = 1 ORDER BY `orders` ASC [ RunTime:0.000971s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000636s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin` [ RunTime:0.001638s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000719s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:54:57+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/main/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001864s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001932s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000808s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.002430s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000927s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.002081s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000763s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001877s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Main'  AND `function` = 'index'  AND `type` = 1  AND `parameter` = 'main=' LIMIT 1 [ RunTime:0.001025s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Main'  AND `function` = 'index'  AND `type` = 1 LIMIT 1 [ RunTime:0.000905s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin` [ RunTime:0.001915s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin` LIMIT 1 [ RunTime:0.000642s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_cate` LIMIT 1 [ RunTime:0.000487s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` LIMIT 1 [ RunTime:0.000424s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_article` [ RunTime:0.001816s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_article` WHERE  `status` = 0 LIMIT 1 [ RunTime:0.000630s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_article` WHERE  `is_top` = 1 LIMIT 1 [ RunTime:0.000514s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_attachment` [ RunTime:0.001852s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` LIMIT 1 [ RunTime:0.000587s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` WHERE  `status` = 0 LIMIT 1 [ RunTime:0.000621s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` WHERE  `status` = -1 LIMIT 1 [ RunTime:0.000712s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_messages` [ RunTime:0.001859s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_messages` LIMIT 1 [ RunTime:0.000518s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_messages` WHERE  `is_look` = 0 LIMIT 1 [ RunTime:0.000563s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_user` [ RunTime:0.001670s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_user` LIMIT 1 [ RunTime:0.000540s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_mobile` [ RunTime:0.001658s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_mobile` LIMIT 1 [ RunTime:0.020578s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_content` [ RunTime:0.002120s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_content` LIMIT 1 [ RunTime:0.028683s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_log` [ RunTime:0.001610s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676131200 AND `create_time` <= 1676217600 ) LIMIT 1 [ RunTime:0.000816s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676217600 AND `create_time` <= 1676304000 ) LIMIT 1 [ RunTime:0.000598s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676304000 AND `create_time` <= 1676390400 ) LIMIT 1 [ RunTime:0.000616s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676390400 AND `create_time` <= 1676476800 ) LIMIT 1 [ RunTime:0.000685s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676476800 AND `create_time` <= 1676563200 ) LIMIT 1 [ RunTime:0.000608s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676563200 AND `create_time` <= 1676649600 ) LIMIT 1 [ RunTime:0.000684s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676649600 AND `create_time` <= 1676736000 ) LIMIT 1 [ RunTime:0.000718s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676736000 AND `create_time` <= 1676822400 ) LIMIT 1 [ RunTime:0.000606s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676822400 AND `create_time` <= 1676908800 ) LIMIT 1 [ RunTime:0.000638s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676908800 AND `create_time` <= 1676995200 ) LIMIT 1 [ RunTime:0.000773s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:54:59+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/appv1/user.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001444s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001713s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000729s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.001836s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000762s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.002132s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000648s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001413s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'user'  AND `type` = 1  AND `parameter` = 'appv1=' LIMIT 1 [ RunTime:0.001130s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'user'  AND `type` = 1 LIMIT 1 [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_user` [ RunTime:0.001701s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_user` LIMIT 1 [ RunTime:0.000614s ]
+[ sql ] [ SQL ] SELECT * FROM `app_user` ORDER BY `id` DESC LIMIT 0,20 [ RunTime:0.000537s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:54:59+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/appv1/mobile.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002570s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002609s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000967s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.002973s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.001065s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.002450s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000788s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.002482s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'mobile'  AND `type` = 1  AND `parameter` = 'appv1=' LIMIT 1 [ RunTime:0.001434s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'mobile'  AND `type` = 1 LIMIT 1 [ RunTime:0.001109s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_mobile` [ RunTime:0.002339s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_mobile` `a` INNER JOIN `app_user` `b` ON `b`.`id`=`a`.`userid` LIMIT 1 [ RunTime:0.001226s ]
+[ sql ] [ SQL ] SELECT `a`.*,`b`.`name`,`b`.`code`,`b`.`clientid` FROM `app_mobile` `a` INNER JOIN `app_user` `b` ON `b`.`id`=`a`.`userid` ORDER BY `a`.`id` DESC LIMIT 0,20 [ RunTime:0.053305s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:55:01+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/appv1/sms.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002265s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002734s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.001263s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.002917s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.001052s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.003220s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.001386s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.003711s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'sms'  AND `type` = 1  AND `parameter` = 'appv1=' LIMIT 1 [ RunTime:0.002700s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'sms'  AND `type` = 1 LIMIT 1 [ RunTime:0.001628s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_content` [ RunTime:0.002474s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_content` `a` INNER JOIN `app_user` `b` ON `b`.`id`=`a`.`userid` LIMIT 1 [ RunTime:0.001260s ]
+[ sql ] [ SQL ] SELECT `a`.*,`b`.`name`,`b`.`code`,`b`.`clientid` FROM `app_content` `a` INNER JOIN `app_user` `b` ON `b`.`id`=`a`.`userid` ORDER BY `a`.`id` DESC LIMIT 0,20 [ RunTime:0.131313s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:55:08+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/index/index.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001615s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002304s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000806s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.002123s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.001006s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.001786s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000779s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.002496s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Index'  AND `function` = 'index'  AND `type` = 1 LIMIT 1 [ RunTime:0.001012s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `is_display` = 1 ORDER BY `orders` ASC [ RunTime:0.000940s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000765s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin` [ RunTime:0.001949s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000605s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:55:09+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/main/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001487s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001895s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000674s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.002375s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000856s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.002059s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000758s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001835s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Main'  AND `function` = 'index'  AND `type` = 1  AND `parameter` = 'main=' LIMIT 1 [ RunTime:0.000938s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Main'  AND `function` = 'index'  AND `type` = 1 LIMIT 1 [ RunTime:0.000737s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin` [ RunTime:0.001841s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin` LIMIT 1 [ RunTime:0.000634s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_cate` LIMIT 1 [ RunTime:0.000567s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` LIMIT 1 [ RunTime:0.000585s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_article` [ RunTime:0.001901s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_article` WHERE  `status` = 0 LIMIT 1 [ RunTime:0.000700s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_article` WHERE  `is_top` = 1 LIMIT 1 [ RunTime:0.000668s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_attachment` [ RunTime:0.002099s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` LIMIT 1 [ RunTime:0.000553s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` WHERE  `status` = 0 LIMIT 1 [ RunTime:0.000569s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` WHERE  `status` = -1 LIMIT 1 [ RunTime:0.000593s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_messages` [ RunTime:0.001438s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_messages` LIMIT 1 [ RunTime:0.000652s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_messages` WHERE  `is_look` = 0 LIMIT 1 [ RunTime:0.000698s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_user` [ RunTime:0.001628s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_user` LIMIT 1 [ RunTime:0.000505s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_mobile` [ RunTime:0.001591s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_mobile` LIMIT 1 [ RunTime:0.014040s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_content` [ RunTime:0.001920s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_content` LIMIT 1 [ RunTime:0.017835s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_log` [ RunTime:0.001663s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676131200 AND `create_time` <= 1676217600 ) LIMIT 1 [ RunTime:0.000751s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676217600 AND `create_time` <= 1676304000 ) LIMIT 1 [ RunTime:0.000670s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676304000 AND `create_time` <= 1676390400 ) LIMIT 1 [ RunTime:0.000665s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676390400 AND `create_time` <= 1676476800 ) LIMIT 1 [ RunTime:0.000662s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676476800 AND `create_time` <= 1676563200 ) LIMIT 1 [ RunTime:0.000667s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676563200 AND `create_time` <= 1676649600 ) LIMIT 1 [ RunTime:0.000693s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676649600 AND `create_time` <= 1676736000 ) LIMIT 1 [ RunTime:0.000677s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676736000 AND `create_time` <= 1676822400 ) LIMIT 1 [ RunTime:0.000683s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676822400 AND `create_time` <= 1676908800 ) LIMIT 1 [ RunTime:0.000681s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676908800 AND `create_time` <= 1676995200 ) LIMIT 1 [ RunTime:0.000695s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:55:11+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/appv1/mobile.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001606s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002106s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000826s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.002364s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000807s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.002049s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000732s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001915s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'mobile'  AND `type` = 1  AND `parameter` = 'appv1=' LIMIT 1 [ RunTime:0.001029s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'mobile'  AND `type` = 1 LIMIT 1 [ RunTime:0.000864s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_mobile` [ RunTime:0.001977s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_mobile` `a` INNER JOIN `app_user` `b` ON `b`.`id`=`a`.`userid` LIMIT 1 [ RunTime:0.000664s ]
+[ sql ] [ SQL ] SELECT `a`.*,`b`.`name`,`b`.`code`,`b`.`clientid` FROM `app_mobile` `a` INNER JOIN `app_user` `b` ON `b`.`id`=`a`.`userid` ORDER BY `a`.`id` DESC LIMIT 0,20 [ RunTime:0.030686s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:55:32+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/index/index.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002433s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002333s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.001152s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.001775s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000835s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.002196s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000705s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001597s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Index'  AND `function` = 'index'  AND `type` = 1 LIMIT 1 [ RunTime:0.001246s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `is_display` = 1 ORDER BY `orders` ASC [ RunTime:0.001351s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000768s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin` [ RunTime:0.002288s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000671s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:55:32+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/main/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001561s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001721s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000740s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.001458s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000605s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.001408s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000596s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001380s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Main'  AND `function` = 'index'  AND `type` = 1  AND `parameter` = 'main=' LIMIT 1 [ RunTime:0.000947s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Main'  AND `function` = 'index'  AND `type` = 1 LIMIT 1 [ RunTime:0.000860s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin` [ RunTime:0.001856s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin` LIMIT 1 [ RunTime:0.000689s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_cate` LIMIT 1 [ RunTime:0.000462s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` LIMIT 1 [ RunTime:0.000571s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_article` [ RunTime:0.001425s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_article` WHERE  `status` = 0 LIMIT 1 [ RunTime:0.000617s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_article` WHERE  `is_top` = 1 LIMIT 1 [ RunTime:0.000603s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_attachment` [ RunTime:0.001927s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` LIMIT 1 [ RunTime:0.000526s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` WHERE  `status` = 0 LIMIT 1 [ RunTime:0.000534s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` WHERE  `status` = -1 LIMIT 1 [ RunTime:0.000530s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_messages` [ RunTime:0.001248s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_messages` LIMIT 1 [ RunTime:0.000469s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_messages` WHERE  `is_look` = 0 LIMIT 1 [ RunTime:0.000506s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_user` [ RunTime:0.001479s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_user` LIMIT 1 [ RunTime:0.000575s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_mobile` [ RunTime:0.001329s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_mobile` LIMIT 1 [ RunTime:0.000649s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_content` [ RunTime:0.001300s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_content` LIMIT 1 [ RunTime:0.018117s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_log` [ RunTime:0.001800s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676131200 AND `create_time` <= 1676217600 ) LIMIT 1 [ RunTime:0.000974s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676217600 AND `create_time` <= 1676304000 ) LIMIT 1 [ RunTime:0.000536s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676304000 AND `create_time` <= 1676390400 ) LIMIT 1 [ RunTime:0.000642s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676390400 AND `create_time` <= 1676476800 ) LIMIT 1 [ RunTime:0.000607s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676476800 AND `create_time` <= 1676563200 ) LIMIT 1 [ RunTime:0.000549s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676563200 AND `create_time` <= 1676649600 ) LIMIT 1 [ RunTime:0.000626s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676649600 AND `create_time` <= 1676736000 ) LIMIT 1 [ RunTime:0.000710s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676736000 AND `create_time` <= 1676822400 ) LIMIT 1 [ RunTime:0.000541s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676822400 AND `create_time` <= 1676908800 ) LIMIT 1 [ RunTime:0.000554s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676908800 AND `create_time` <= 1676995200 ) LIMIT 1 [ RunTime:0.000776s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:55:51+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/index/index.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001284s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001625s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000825s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.001907s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000907s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.001586s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000674s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.002249s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Index'  AND `function` = 'index'  AND `type` = 1 LIMIT 1 [ RunTime:0.000981s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `is_display` = 1 ORDER BY `orders` ASC [ RunTime:0.000965s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000672s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin` [ RunTime:0.002359s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000711s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:55:51+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/main/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001423s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001524s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000777s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.002350s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000843s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.001753s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000737s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001679s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Main'  AND `function` = 'index'  AND `type` = 1  AND `parameter` = 'main=' LIMIT 1 [ RunTime:0.000936s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Main'  AND `function` = 'index'  AND `type` = 1 LIMIT 1 [ RunTime:0.000897s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin` [ RunTime:0.001557s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin` LIMIT 1 [ RunTime:0.000599s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_cate` LIMIT 1 [ RunTime:0.000576s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` LIMIT 1 [ RunTime:0.000616s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_article` [ RunTime:0.001427s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_article` WHERE  `status` = 0 LIMIT 1 [ RunTime:0.000700s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_article` WHERE  `is_top` = 1 LIMIT 1 [ RunTime:0.000656s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_attachment` [ RunTime:0.001554s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` LIMIT 1 [ RunTime:0.000632s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` WHERE  `status` = 0 LIMIT 1 [ RunTime:0.000686s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` WHERE  `status` = -1 LIMIT 1 [ RunTime:0.000698s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_messages` [ RunTime:0.001478s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_messages` LIMIT 1 [ RunTime:0.000675s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_messages` WHERE  `is_look` = 0 LIMIT 1 [ RunTime:0.000675s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_user` [ RunTime:0.001307s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_user` LIMIT 1 [ RunTime:0.000541s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_mobile` [ RunTime:0.001612s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_mobile` LIMIT 1 [ RunTime:0.000619s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_content` [ RunTime:0.001246s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_content` LIMIT 1 [ RunTime:0.019995s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_log` [ RunTime:0.001801s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676131200 AND `create_time` <= 1676217600 ) LIMIT 1 [ RunTime:0.000832s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676217600 AND `create_time` <= 1676304000 ) LIMIT 1 [ RunTime:0.000669s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676304000 AND `create_time` <= 1676390400 ) LIMIT 1 [ RunTime:0.000674s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676390400 AND `create_time` <= 1676476800 ) LIMIT 1 [ RunTime:0.001153s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676476800 AND `create_time` <= 1676563200 ) LIMIT 1 [ RunTime:0.000761s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676563200 AND `create_time` <= 1676649600 ) LIMIT 1 [ RunTime:0.000738s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676649600 AND `create_time` <= 1676736000 ) LIMIT 1 [ RunTime:0.000736s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676736000 AND `create_time` <= 1676822400 ) LIMIT 1 [ RunTime:0.000832s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676822400 AND `create_time` <= 1676908800 ) LIMIT 1 [ RunTime:0.000785s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676908800 AND `create_time` <= 1676995200 ) LIMIT 1 [ RunTime:0.000727s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:56:11+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/index/index.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001632s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001976s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000769s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.001868s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000734s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.001753s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000599s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001639s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Index'  AND `function` = 'index'  AND `type` = 1 LIMIT 1 [ RunTime:0.000912s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `is_display` = 1 ORDER BY `orders` ASC [ RunTime:0.000927s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000538s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin` [ RunTime:0.001639s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000677s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:56:12+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/main/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001504s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001667s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000733s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.001873s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000786s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.002040s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000744s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001741s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Main'  AND `function` = 'index'  AND `type` = 1  AND `parameter` = 'main=' LIMIT 1 [ RunTime:0.000959s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Main'  AND `function` = 'index'  AND `type` = 1 LIMIT 1 [ RunTime:0.000653s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin` [ RunTime:0.001346s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin` LIMIT 1 [ RunTime:0.000484s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_cate` LIMIT 1 [ RunTime:0.000495s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` LIMIT 1 [ RunTime:0.000474s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_article` [ RunTime:0.001339s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_article` WHERE  `status` = 0 LIMIT 1 [ RunTime:0.000505s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_article` WHERE  `is_top` = 1 LIMIT 1 [ RunTime:0.000458s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_attachment` [ RunTime:0.001419s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` LIMIT 1 [ RunTime:0.000480s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` WHERE  `status` = 0 LIMIT 1 [ RunTime:0.000765s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` WHERE  `status` = -1 LIMIT 1 [ RunTime:0.000677s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_messages` [ RunTime:0.001436s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_messages` LIMIT 1 [ RunTime:0.000606s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_messages` WHERE  `is_look` = 0 LIMIT 1 [ RunTime:0.000601s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_user` [ RunTime:0.001741s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_user` LIMIT 1 [ RunTime:0.000643s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_mobile` [ RunTime:0.001509s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_mobile` LIMIT 1 [ RunTime:0.000482s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_content` [ RunTime:0.001539s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_content` LIMIT 1 [ RunTime:0.000570s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_log` [ RunTime:0.001646s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676131200 AND `create_time` <= 1676217600 ) LIMIT 1 [ RunTime:0.000886s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676217600 AND `create_time` <= 1676304000 ) LIMIT 1 [ RunTime:0.000613s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676304000 AND `create_time` <= 1676390400 ) LIMIT 1 [ RunTime:0.000566s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676390400 AND `create_time` <= 1676476800 ) LIMIT 1 [ RunTime:0.000647s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676476800 AND `create_time` <= 1676563200 ) LIMIT 1 [ RunTime:0.000534s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676563200 AND `create_time` <= 1676649600 ) LIMIT 1 [ RunTime:0.000598s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676649600 AND `create_time` <= 1676736000 ) LIMIT 1 [ RunTime:0.000595s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676736000 AND `create_time` <= 1676822400 ) LIMIT 1 [ RunTime:0.000595s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676822400 AND `create_time` <= 1676908800 ) LIMIT 1 [ RunTime:0.000551s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676908800 AND `create_time` <= 1676995200 ) LIMIT 1 [ RunTime:0.000699s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:59:24+08:00 ] 14.157.49.69 GET 115.126.113.216:98/web/login/vendor/jquery/jquery-3.2.1.min.js
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002624s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.003410s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.001237s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:59:36+08:00 ] 14.157.49.69 POST 115.126.113.216:98/index.php/api/uploads/api
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001477s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001719s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000732s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_appconfig` [ RunTime:0.002259s ]
+[ sql ] [ SQL ] SELECT * FROM `app_appconfig` WHERE  `app` = 'appv1' LIMIT 1 [ RunTime:0.001027s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_user` [ RunTime:0.001771s ]
+[ sql ] [ SQL ] SELECT * FROM `app_user` WHERE  `name` = '17688802976' LIMIT 1 [ RunTime:0.000674s ]
+[ sql ] [ SQL ] INSERT INTO `app_user` (`name` , `code` , `clientid` , `login_time` , `ip` , `ipdizhi`) VALUES ('17688802976' , 0 , 'Xiaomi-M2007J22C' , 1676959176 , '14.157.49.69' , '') [ RunTime:0.005867s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_mobile` [ RunTime:0.001852s ]
+[ sql ] [ SQL ] INSERT INTO `app_mobile` (`userid` , `username` , `umobile` , `addtime`) VALUES ( '1','有点像','176 8880 2973',1676959176 ) , ( '1','哈哈哈','10086',1676959176 ) [ RunTime:0.005196s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:59:36+08:00 ] 14.157.49.69 POST 115.126.113.216:98/index.php/api/uploads/apimap
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001497s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002149s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000811s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_user` [ RunTime:0.001801s ]
+[ sql ] [ SQL ] UPDATE `app_user`  SET `mapx`='112.56358166666665',`mapy`='38.00125'  WHERE  `name` = '17688802976'  AND `code` = 0 [ RunTime:0.005174s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:59:37+08:00 ] 14.157.49.69 POST 115.126.113.216:98/index.php/api/uploads/apisms
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001273s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001749s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000717s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:59:40+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/index/index.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001472s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001775s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000757s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.001584s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000696s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.001993s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000646s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001372s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Index'  AND `function` = 'index'  AND `type` = 1 LIMIT 1 [ RunTime:0.000805s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `is_display` = 1 ORDER BY `orders` ASC [ RunTime:0.000790s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000758s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin` [ RunTime:0.001842s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000725s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:59:41+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/main/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001684s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002220s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000783s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.001885s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000681s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.001697s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000788s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001485s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Main'  AND `function` = 'index'  AND `type` = 1  AND `parameter` = 'main=' LIMIT 1 [ RunTime:0.001182s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Main'  AND `function` = 'index'  AND `type` = 1 LIMIT 1 [ RunTime:0.000934s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin` [ RunTime:0.001894s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin` LIMIT 1 [ RunTime:0.000733s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_cate` LIMIT 1 [ RunTime:0.000533s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` LIMIT 1 [ RunTime:0.000473s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_article` [ RunTime:0.001407s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_article` WHERE  `status` = 0 LIMIT 1 [ RunTime:0.000917s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_article` WHERE  `is_top` = 1 LIMIT 1 [ RunTime:0.000666s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_attachment` [ RunTime:0.001926s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` LIMIT 1 [ RunTime:0.000539s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` WHERE  `status` = 0 LIMIT 1 [ RunTime:0.000586s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` WHERE  `status` = -1 LIMIT 1 [ RunTime:0.000469s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_messages` [ RunTime:0.001297s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_messages` LIMIT 1 [ RunTime:0.000551s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_messages` WHERE  `is_look` = 0 LIMIT 1 [ RunTime:0.000446s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_user` [ RunTime:0.001270s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_user` LIMIT 1 [ RunTime:0.000480s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_mobile` [ RunTime:0.001161s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_mobile` LIMIT 1 [ RunTime:0.000532s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_content` [ RunTime:0.001436s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_content` LIMIT 1 [ RunTime:0.000524s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_log` [ RunTime:0.001482s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676131200 AND `create_time` <= 1676217600 ) LIMIT 1 [ RunTime:0.000916s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676217600 AND `create_time` <= 1676304000 ) LIMIT 1 [ RunTime:0.000634s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676304000 AND `create_time` <= 1676390400 ) LIMIT 1 [ RunTime:0.000813s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676390400 AND `create_time` <= 1676476800 ) LIMIT 1 [ RunTime:0.000874s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676476800 AND `create_time` <= 1676563200 ) LIMIT 1 [ RunTime:0.000603s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676563200 AND `create_time` <= 1676649600 ) LIMIT 1 [ RunTime:0.000609s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676649600 AND `create_time` <= 1676736000 ) LIMIT 1 [ RunTime:0.000646s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676736000 AND `create_time` <= 1676822400 ) LIMIT 1 [ RunTime:0.000632s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676822400 AND `create_time` <= 1676908800 ) LIMIT 1 [ RunTime:0.000593s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676908800 AND `create_time` <= 1676995200 ) LIMIT 1 [ RunTime:0.000899s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:59:47+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/appv1/user.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001550s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001761s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000893s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.001850s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000700s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.001671s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000571s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001350s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'user'  AND `type` = 1  AND `parameter` = 'appv1=' LIMIT 1 [ RunTime:0.000857s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'user'  AND `type` = 1 LIMIT 1 [ RunTime:0.000628s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_user` [ RunTime:0.001345s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_user` LIMIT 1 [ RunTime:0.000531s ]
+[ sql ] [ SQL ] SELECT * FROM `app_user` ORDER BY `id` DESC LIMIT 0,20 [ RunTime:0.000510s ]
+---------------------------------------------------------------
+[ 2023-02-21T13:59:49+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/appv1/xiangce/id/17688802976.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001397s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002258s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000781s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.001508s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000720s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.001455s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000518s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001291s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'xiangce'  AND `type` = 1  AND `parameter` = 'appv1=id&17688802976=' LIMIT 1 [ RunTime:0.000853s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'xiangce'  AND `type` = 1 LIMIT 1 [ RunTime:0.000791s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_xiangce` [ RunTime:0.001997s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_xiangce` `a` INNER JOIN `app_user` `b` ON `b`.`id`=`a`.`userid` WHERE  `userid` = '17688802976' LIMIT 1 [ RunTime:0.001633s ]
+[ sql ] [ SQL ] SELECT `a`.*,`b`.`name`,`b`.`code`,`b`.`clientid` FROM `app_xiangce` `a` INNER JOIN `app_user` `b` ON `b`.`id`=`a`.`userid` WHERE  `userid` = '17688802976' ORDER BY `a`.`id` DESC LIMIT 0,20 [ RunTime:0.002291s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_xiangce` WHERE  `userid` = '17688802976' LIMIT 1 [ RunTime:0.001536s ]
+[ sql ] [ SQL ] SELECT * FROM `app_xiangce` WHERE  `userid` = '17688802976' ORDER BY `id` DESC LIMIT 0,20 [ RunTime:0.000623s ]
+---------------------------------------------------------------
+[ 2023-02-21T14:00:07+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/appv1/mobile.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002067s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002353s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.001196s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.002052s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000769s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.002158s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000821s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001638s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'mobile'  AND `type` = 1  AND `parameter` = 'appv1=' LIMIT 1 [ RunTime:0.000888s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'mobile'  AND `type` = 1 LIMIT 1 [ RunTime:0.000736s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_mobile` [ RunTime:0.001830s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_mobile` `a` INNER JOIN `app_user` `b` ON `b`.`id`=`a`.`userid` LIMIT 1 [ RunTime:0.000729s ]
+[ sql ] [ SQL ] SELECT `a`.*,`b`.`name`,`b`.`code`,`b`.`clientid` FROM `app_mobile` `a` INNER JOIN `app_user` `b` ON `b`.`id`=`a`.`userid` ORDER BY `a`.`id` DESC LIMIT 0,20 [ RunTime:0.000880s ]
+---------------------------------------------------------------
+[ 2023-02-21T14:00:28+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/appv1/sms.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001849s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001652s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000865s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.001886s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000787s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.001567s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000683s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001598s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'sms'  AND `type` = 1  AND `parameter` = 'appv1=' LIMIT 1 [ RunTime:0.000807s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'sms'  AND `type` = 1 LIMIT 1 [ RunTime:0.000733s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_content` [ RunTime:0.001565s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_content` `a` INNER JOIN `app_user` `b` ON `b`.`id`=`a`.`userid` LIMIT 1 [ RunTime:0.000610s ]
+[ sql ] [ SQL ] SELECT `a`.*,`b`.`name`,`b`.`code`,`b`.`clientid` FROM `app_content` `a` INNER JOIN `app_user` `b` ON `b`.`id`=`a`.`userid` ORDER BY `a`.`id` DESC LIMIT 0,20 [ RunTime:0.000680s ]
+---------------------------------------------------------------
+[ 2023-02-21T14:00:29+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/appv1/user.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002058s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001777s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000764s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.001905s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000712s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.001437s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000850s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001729s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'user'  AND `type` = 1  AND `parameter` = 'appv1=' LIMIT 1 [ RunTime:0.000854s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'user'  AND `type` = 1 LIMIT 1 [ RunTime:0.000716s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_user` [ RunTime:0.001495s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_user` LIMIT 1 [ RunTime:0.000563s ]
+[ sql ] [ SQL ] SELECT * FROM `app_user` ORDER BY `id` DESC LIMIT 0,20 [ RunTime:0.000504s ]
+---------------------------------------------------------------
+[ 2023-02-21T14:00:39+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/appv1/alldeletes.shtml?delid%5B%5D=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001744s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001857s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000711s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.002183s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000692s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.001988s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000836s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001613s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'alldeletes'  AND `type` = 1  AND `parameter` = 'appv1=' LIMIT 1 [ RunTime:0.001096s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'alldeletes'  AND `type` = 1 LIMIT 1 [ RunTime:0.000915s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_user` [ RunTime:0.001539s ]
+[ sql ] [ SQL ] DELETE FROM `app_user`    WHERE  `id` = 1 [ RunTime:0.006262s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_mobile` [ RunTime:0.001588s ]
+[ sql ] [ SQL ] DELETE FROM `app_mobile`    WHERE  (  userid in (1) ) [ RunTime:0.006712s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_content` [ RunTime:0.001605s ]
+[ sql ] [ SQL ] DELETE FROM `app_content`    WHERE  (  userid in (1) ) [ RunTime:0.000561s ]
+[ sql ] [ SQL ] SELECT * FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000825s ]
+[ sql ] [ SQL ] SELECT `id` FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'alldeletes'  AND `parameter` = 'appv1=' LIMIT 1 [ RunTime:0.000821s ]
+[ sql ] [ SQL ] SELECT `id` FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'alldeletes' LIMIT 1 [ RunTime:0.000768s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_log` [ RunTime:0.001536s ]
+[ sql ] [ SQL ] INSERT INTO `app_admin_log` (`operation_id` , `admin_id` , `ip` , `create_time` , `admin_menu_id`) VALUES ('1' , 1 , '14.157.49.69' , 1676959239 , 70) [ RunTime:0.006060s ]
+---------------------------------------------------------------
+[ 2023-02-21T14:00:40+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/appv1/user.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001655s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001667s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000747s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.001929s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000675s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.001663s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000557s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001371s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'user'  AND `type` = 1  AND `parameter` = 'appv1=' LIMIT 1 [ RunTime:0.000891s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Appv1'  AND `function` = 'user'  AND `type` = 1 LIMIT 1 [ RunTime:0.000835s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_user` [ RunTime:0.002118s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_user` LIMIT 1 [ RunTime:0.000555s ]
+[ sql ] [ SQL ] SELECT * FROM `app_user` ORDER BY `id` DESC LIMIT 0,20 [ RunTime:0.000547s ]
+---------------------------------------------------------------
+[ 2023-02-21T14:03:25+08:00 ] 14.157.49.69 GET 115.126.113.216:98/web/login/vendor/jquery/jquery-3.2.1.min.js
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001802s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002304s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000906s ]
+---------------------------------------------------------------
+[ 2023-02-21T14:03:33+08:00 ] 14.157.49.69 POST 115.126.113.216:98/index.php/api/uploads/api
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001683s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001906s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000870s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_appconfig` [ RunTime:0.001998s ]
+[ sql ] [ SQL ] SELECT * FROM `app_appconfig` WHERE  `app` = 'appv1' LIMIT 1 [ RunTime:0.000879s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_user` [ RunTime:0.001479s ]
+[ sql ] [ SQL ] SELECT * FROM `app_user` WHERE  `name` = '1545646465456' LIMIT 1 [ RunTime:0.000650s ]
+[ sql ] [ SQL ] INSERT INTO `app_user` (`name` , `code` , `clientid` , `login_time` , `ip` , `ipdizhi`) VALUES ('1545646465456' , 0 , 'Xiaomi-M2007J22C' , 1676959413 , '14.157.49.69' , '') [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_mobile` [ RunTime:0.001572s ]
+[ sql ] [ SQL ] INSERT INTO `app_mobile` (`userid` , `username` , `umobile` , `addtime`) VALUES ( '2','有点像','176 8880 2973',1676959413 ) , ( '2','哈哈哈','10086',1676959413 ) [ RunTime:0.007138s ]
+---------------------------------------------------------------
+[ 2023-02-21T14:03:33+08:00 ] 14.157.49.69 POST 115.126.113.216:98/index.php/api/uploads/apisms
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001315s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001762s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000686s ]
+---------------------------------------------------------------
+[ 2023-02-21T14:03:33+08:00 ] 14.157.49.69 POST 115.126.113.216:98/index.php/api/uploads/apimap
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001870s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.002081s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.001157s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_user` [ RunTime:0.001732s ]
+[ sql ] [ SQL ] UPDATE `app_user`  SET `mapx`='112.56358166666665',`mapy`='38.00125'  WHERE  `name` = '1545646465456'  AND `code` = 0 [ RunTime:0.006983s ]
+---------------------------------------------------------------
+[ 2023-02-21T14:03:40+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/index/index.shtml
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001431s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001567s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000659s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.001929s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000704s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.002017s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000673s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001489s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Index'  AND `function` = 'index'  AND `type` = 1 LIMIT 1 [ RunTime:0.000866s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `is_display` = 1 ORDER BY `orders` ASC [ RunTime:0.001052s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000670s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin` [ RunTime:0.001871s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000915s ]
+---------------------------------------------------------------
+[ 2023-02-21T14:03:40+08:00 ] 14.157.49.69 GET 115.126.113.216:98/admin/main/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001396s ] mysql:host=127.0.0.1;port=3306;dbname=rou001;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_urlconfig` [ RunTime:0.001880s ]
+[ sql ] [ SQL ] SELECT `aliases`,`url` FROM `app_urlconfig` WHERE  `status` = 1 [ RunTime:0.000723s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_webconfig` [ RunTime:0.001517s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` WHERE  `web` = 'web' LIMIT 1 [ RunTime:0.000731s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_cate` [ RunTime:0.001448s ]
+[ sql ] [ SQL ] SELECT `permissions` FROM `app_admin_cate` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000529s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_menu` [ RunTime:0.001395s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Main'  AND `function` = 'index'  AND `type` = 1  AND `parameter` = 'main=' LIMIT 1 [ RunTime:0.000757s ]
+[ sql ] [ SQL ] SELECT * FROM `app_admin_menu` WHERE  `module` = 'admin'  AND `controller` = 'Main'  AND `function` = 'index'  AND `type` = 1 LIMIT 1 [ RunTime:0.000779s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin` [ RunTime:0.001239s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin` LIMIT 1 [ RunTime:0.000563s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_cate` LIMIT 1 [ RunTime:0.000471s ]
+[ sql ] [ SQL ] SELECT `black_ip` FROM `app_webconfig` LIMIT 1 [ RunTime:0.000491s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_article` [ RunTime:0.001481s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_article` WHERE  `status` = 0 LIMIT 1 [ RunTime:0.000800s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_article` WHERE  `is_top` = 1 LIMIT 1 [ RunTime:0.000565s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_attachment` [ RunTime:0.001447s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` LIMIT 1 [ RunTime:0.000529s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` WHERE  `status` = 0 LIMIT 1 [ RunTime:0.000680s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_attachment` WHERE  `status` = -1 LIMIT 1 [ RunTime:0.000708s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_messages` [ RunTime:0.001385s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_messages` LIMIT 1 [ RunTime:0.000551s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_messages` WHERE  `is_look` = 0 LIMIT 1 [ RunTime:0.000668s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_user` [ RunTime:0.001309s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_user` LIMIT 1 [ RunTime:0.000660s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_mobile` [ RunTime:0.001319s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_mobile` LIMIT 1 [ RunTime:0.000623s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_content` [ RunTime:0.001548s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_content` LIMIT 1 [ RunTime:0.000602s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `app_admin_log` [ RunTime:0.001484s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676131200 AND `create_time` <= 1676217600 ) LIMIT 1 [ RunTime:0.000809s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676217600 AND `create_time` <= 1676304000 ) LIMIT 1 [ RunTime:0.000707s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676304000 AND `create_time` <= 1676390400 ) LIMIT 1 [ RunTime:0.000758s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676390400 AND `create_time` <= 1676476800 ) LIMIT 1 [ RunTime:0.000749s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676476800 AND `create_time` <= 1676563200 ) LIMIT 1 [ RunTime:0.000727s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676563200 AND `create_time` <= 1676649600 ) LIMIT 1 [ RunTime:0.000676s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676649600 AND `create_time` <= 1676736000 ) LIMIT 1 [ RunTime:0.000661s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676736000 AND `create_time` <= 1676822400 ) LIMIT 1 [ RunTime:0.000609s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676822400 AND `create_time` <= 1676908800 ) LIMIT 1 [ RunTime:0.000675s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `app_admin_log` WHERE  `admin_menu_id` = 50  AND ( `create_time` >= 1676908800 AND `create_time` <= 1676995200 ) LIMIT 1 [ RunTime:0.000763s ]

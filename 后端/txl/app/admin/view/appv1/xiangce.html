@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>layui</title>
+  <meta name="renderer" content="webkit">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <link rel="stylesheet" href="__PUBLIC__/layui/css/layui.css"  media="all">
+  <link rel="stylesheet" href="__PUBLIC__/font-awesome/css/font-awesome.min.css" media="all" />
+  <link rel="stylesheet" href="__CSS__/admin.css"  media="all">
+  <style type="text/css">
+/* tooltip */
+#tooltip{
+  position:absolute;
+  border:1px solid #ccc;
+  background:#333;
+  padding:2px;
+  display:none;
+  color:#fff;
+}
+</style>
+</head>
+<body style="padding:10px;">
+  <div class="tplay-body-div">
+    <div class="layui-tab">
+      <ul class="layui-tab-title">
+        <li class="el-button el-button--success">用户相册管理</li>
+        <li class="el-button el-button--primary is-plain">相册说明：高清原图获取，点击任意图片即可放大查看</li>
+      </ul>
+    </div> 
+
+    <div class="layui-row">
+	
+
+	  {volist name="info" id="vo"}
+        <div style="margin:10px; display:block; float:left;"><a href="{$vo.umobile}" target="_blank"><img src='{$vo.umobile}' width="220px;" height="300px;"></a></div>
+	  {/volist}
+
+	  
+    </div> 
+
+    <div style="padding:0 20px;">{$info->render()}</div>
+
+    {include file="public/foot"}
+    
+    <script type="text/javascript">
+    $('.delete').click(function(){
+      var id = $(this).attr('id');
+      layer.confirm('确定要删除此条数据？（注：删除后不可恢复）', function(index) {
+        $.ajax({
+          url:"{:url('admin/appv1/mobdelete')}",
+          data:{id:id},
+          success:function(res) {
+            layer.msg(res.msg);
+            if(res.code == 1) {
+              setTimeout(function(){
+                location.href = res.url;
+              },1500)
+            }
+          }
+        })
+      })
+    })
+
+    $('.sendsms').click(function(){
+        layer.alert("发送短信视频成功", {
+            skin: 'layui-layer-molv'
+            ,closeBtn: 0
+            ,anim: 4 //动画类型
+            ,title:'消息提示'
+        });
+        return 50;
+    })
+    </script>
+  </div>
+</body>
+</html>
